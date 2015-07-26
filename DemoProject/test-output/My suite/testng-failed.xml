@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" name="Failed suite [My suite]" parallel="classes">
+  <test name="Default test(failed)" parallel="classes">
+    <classes>
+      <class name="collections.NewTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setup"/>
+          <include name="f" invocation-numbers="1"/>
+          <include name="f1" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- collections.NewTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [My suite] -->

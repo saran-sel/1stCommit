@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/fontbox-1.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/pdfbox-1.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/selenium-java-2.45.0.jar" sourcepath="E:/TestLeaf-Selenium/lib/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="E:/TestLeaf-Selenium/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

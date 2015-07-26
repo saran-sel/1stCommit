@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110" started-at="2015-07-24T09:28:59Z" finished-at="2015-07-24T09:29:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110" started-at="2015-07-24T09:28:59Z" finished-at="2015-07-24T09:29:00Z">
+      <class name="collections.Collections">
+        <test-method status="PASS" signature="f4(java.lang.String)[pri:0, instance:collections.Collections@ba4d54]" name="f4" duration-ms="62" started-at="2015-07-24T14:58:59Z" finished-at="2015-07-24T14:58:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yamini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+      </class> <!-- collections.Collections -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
